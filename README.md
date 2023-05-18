@@ -5,7 +5,7 @@ The pipeline is built using Apache Airflow and Google Cloud Platform, and includ
 ## Code Description
 This python code involves the use of Airflow operators to load a CSV file into a BigQuery table, check the number of rows in the table, and execute a SQL script to create another dataset in BigQuery. Here is a breakdown of each of the operators:
 
-* __GCSToBigQueryOperator_
+* __GCSToBigQueryOperator__
 
 This operator loads a CSV file from a Google Cloud Storage (GCS) bucket into a BigQuery table. The operator has several parameters including the task ID, the GCS bucket name, the source CSV file path, the destination BigQuery table, the write disposition, source format, and schema fields.
 
