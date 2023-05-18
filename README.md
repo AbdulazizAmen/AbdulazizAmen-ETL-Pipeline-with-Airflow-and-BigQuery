@@ -18,3 +18,6 @@ This operator checks the number of rows in the previously loaded BigQuery table.
 This operator executes a SQL script to create a new dataset in BigQuery. The operator has several parameters including the task ID, the SQL script file path, and whether to use legacy SQL.
 
 In summary, this code loads a CSV file into a BigQuery table, checks the number of rows in the table, and executes a SQL script to create a new dataset in BigQuery.
+
+## Demo
+https://drive.google.com/drive/u/1/folders/1C-yns2AcLjKlG3jctdC28G67OmsY7QYm
