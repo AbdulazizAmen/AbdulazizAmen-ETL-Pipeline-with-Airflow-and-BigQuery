@@ -11,11 +11,11 @@ This operator loads a CSV file from a Google Cloud Storage (GCS) bucket into a B
 
 * __BigQueryCheckOperator__
 
-This operator checks the number of rows in the previously loaded BigQuery table. The operator has several parameters including the task ID, the SQL statement to execute, and whether to use legacy SQL.
+This operator checks the number of rows in the previously loaded BigQuery table. The operator has several parameters including the task ID, the SQL statement to execute.
 
 * __BigQueryOperator__
 
-This operator executes a SQL script to create a new dataset in BigQuery. The operator has several parameters including the task ID, the SQL script file path, and whether to use legacy SQL.
+This operator executes a SQL script to create a new dataset in BigQuery. The operator has several parameters including the task ID, the SQL script file path .
 
 In summary, this code loads a CSV file into a BigQuery table, checks the number of rows in the table, and executes a SQL script to create a new dataset in BigQuery.
 
