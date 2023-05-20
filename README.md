@@ -20,4 +20,4 @@ This operator executes a SQL script to create a new dataset in BigQuery. The ope
 In summary, this code loads a CSV file into a BigQuery table, checks the number of rows in the table, and executes a SQL script to create a new dataset in BigQuery.
 
 ## Demo
-https://drive.google.com/drive/u/1/folders/1C-yns2AcLjKlG3jctdC28G67OmsY7QYm
+ https://drive.google.com/file/d/1FxXAQKYn5gY4kfTSfUxUFP_PMWbVs33i/view?usp=sharing
